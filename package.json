@@ -5,7 +5,7 @@
   "description": "A minimalistic app to find and connect with essential service providers near you. This project is ready for local development and export.",
   "scripts": {
     "dev": "react dev",
-    "build": "react build",
+    "build": "react-scripts build",
     "start": "echo \"This project uses ES modules and can be run by serving the root directory with a simple HTTP server (e.g., 'python -m http.server' or using the VS Code Live Server extension).\""
 
   },
